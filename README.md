@@ -5,8 +5,8 @@
 This project uses Simple Linear Regression to predict salaries based on years of experience. The goal is to assist HR departments, Job Seekers, and Employers in estimating salaries based on historical data.
 
 ## Problem
--Job Seekers Understand what salary to expect based on their years of experience, enabling better negotiation during job offers.
--The HR department of your company requires a model to predict the salaries of new employees based on existing company data. The provided CSV file contains the necessary data to train and test the model.
+-Job Seekers Understand what salary to expect based on their years of experience, enabling better negotiation during job offers.<br>
+-The HR department of your company requires a model to predict the salaries of new employees based on existing company data. The provided CSV file contains the necessary data to train and test the model.<br>
 -Employers: Use the model to set competitive salary packages based on industry standards and experience levels.
 
 ## Solution
